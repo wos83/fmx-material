@@ -1,0 +1,11 @@
+{
+	"name": "fmx-material",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "src/",
+	"projects": [
+		"FMX.Material.dproj"
+	],
+	"dependencies": {}
+}
